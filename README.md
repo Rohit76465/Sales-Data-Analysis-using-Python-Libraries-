@@ -1,1 +1,2 @@
 # Sales-Data-Analysis-using-Python-Libraries-
+This data analysis focuses on Diwali festival sales data, demonstrating expertise in data cleaning, manipulation, and exploratory data analysis. The project contributes to improving customer experience by identifying potential customers across diverse demographics and enhancing sales strategies through the identification of high-performing product categories and specific products. The insights provided are invaluable for inventory planning and meeting market demands effectively.
